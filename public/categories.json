@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "slug": "relationship",
+    "name": "relationship",
+    "color": "rose",
+    "description": "Focused on love and interpersonal dynamics. Insight into current and future relationships or guidance for related dilemmas.",
+    "short": "Love, companionship, and relationship dynamics."
+  },
+  {
+    "id": 2,
+    "slug": "career",
+    "name": "career",
+    "color": "sky",
+    "description": "Spreads for work-related inquiries. Guidance on career progression, job changes, and professional relationships.",
+    "short": "Career progression and professional relationships."
+  },
+  {
+    "id": 3,
+    "slug": "personality",
+    "name": "personality",
+    "color": "purple",
+    "description": "Insights into character, strengths, and growth areas. Help in personal development and self-understanding.",
+    "short": "Character traits and personal growth potential."
+  },
+  {
+    "id": 4,
+    "slug": "situation",
+    "name": "situation",
+    "color": "blue",
+    "description": "Spreads for specific situations or challenges. Provide fresh perspective and uncover hidden aspects or outcomes.",
+    "short": "Clarity for specific situations or challenges."
+  },
+  {
+    "id": 5,
+    "slug": "three-cards",
+    "name": "three cards",
+    "color": "orange",
+    "description": "Simple three-card layout. Ideal for quick readings, applicable to a variety of questions or themes.",
+    "short": "Quick, insightful readings with a three-card layout."
+  }
+]

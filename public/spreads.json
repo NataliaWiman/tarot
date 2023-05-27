@@ -1,0 +1,299 @@
+[
+  {
+    "id": "001",
+    "slug": "past-present-future",
+    "name": "Past/Preset/Future",
+    "description": "Examines the past, illuminates the present, and reveals potential future outcomes.",
+    "category": "three cards",
+    "layout": ["3"],
+    "number": 3,
+    "positions": [
+      {
+        "id": "1",
+        "name": "Past",
+        "layout": "1 / 3 / span 2 / span 2"
+      },
+      {
+        "id": "2",
+        "name": "Present",
+        "layout": "1 / 5 / span 2 / span 2"
+      },
+      {
+        "id": "3",
+        "name": "Future",
+        "layout": "1 / 7 / span 2 / span 2"
+      }
+    ]
+  },
+  {
+    "id": "002",
+    "slug": "challanges-obstacles",
+    "name": "Challenges & Obstacles",
+    "description": "For everyday insights. Clarifies situation, decision, or relationship dynamics.",
+    "category": "three cards",
+    "layout": ["3"],
+    "number": 3,
+    "positions": [
+      {
+        "id": "1",
+        "name": "What do I need to understand about my current situation?",
+        "layout": "1 / 3 / span 2 / span 2"
+      },
+      {
+        "id": "2",
+        "name": "What are the potential challenges or obstacles?",
+        "layout": "1 / 5 / span 2 / span 2"
+      },
+      {
+        "id": "3",
+        "name": "What can I do to effectively overcome these challenges?",
+        "layout": "1 / 7 / span 2 / span 2"
+      }
+    ]
+  },
+  {
+    "id": "003",
+    "slug": "celtic-cross",
+    "name": "Celtic Cross",
+    "description": "For deep insights into complex situations or multifaceted questions.",
+    "category": "situation",
+    "layout": ["special"],
+    "number": 10,
+    "positions": [
+      {
+        "id": "1",
+        "name": "What is the heart of my current situation?",
+        "layout": "4 / 3 / span 2 / span 2"
+      },
+      {
+        "id": "2",
+        "name": "What is the main challenge or obstacle I'm facing?",
+        "layout": "4 / 5 / span 2 / span 2"
+      },
+      {
+        "id": "3",
+        "name": "What are the subconscious influences on my situation?",
+        "layout": "2 / 4 / span 2 / span 2"
+      },
+      {
+        "id": "4",
+        "name": "What does my past tell me about this situation?",
+        "layout": "6 / 4 / span 2 / span 2"
+      },
+      {
+        "id": "5",
+        "name": "What conscious influences are affecting my situation?",
+        "layout": "4 / 1 / span 2 / span 2"
+      },
+      {
+        "id": "6",
+        "name": "What does the immediate future hold if things continue as they are?",
+        "layout": "4 / 7 / span 2 / span 2"
+      },
+      {
+        "id": "7",
+        "name": "How do I perceive myself in this situation?",
+        "layout": "7 / 9 / span 2 / span 2"
+      },
+      {
+        "id": "8",
+        "name": "How do others perceive my situation or role?",
+        "layout": "5 / 9 / span 2 / span 2"
+      },
+      {
+        "id": "9",
+        "name": "What are my hopes and fears?",
+        "layout": "3 / 9 / span 2 / span 2"
+      },
+      {
+        "id": "10",
+        "name": "What is the potential outcome if I follow the current path?",
+        "layout": "1 / 9 / span 2 / span 2"
+      }
+    ]
+  },
+  {
+    "id": "004",
+    "slug": "career-path",
+    "name": "Career Path",
+    "description": "Designed for understanding career or work situations. Clarifies work challenges.",
+    "category": "career",
+    "layout": ["1, 2, 2, 2"],
+    "number": 7,
+    "positions": [
+      {
+        "id": "1",
+        "name": "What do I need to understand about my current career situation?",
+        "layout": "1 / 5 / span 2 / span 2"
+      },
+      {
+        "id": "2",
+        "name": "What are my strengths in this career?",
+        "layout": "3 / 4 / span 2 / span 2"
+      },
+      {
+        "id": "3",
+        "name": "What are the areas for improvement or growth in my career?",
+        "layout": "3 / 6 / span 2 / span 2"
+      },
+      {
+        "id": "4",
+        "name": "What opportunities should I be looking for?",
+        "layout": "5 / 4 / span 2 / span 2"
+      },
+      {
+        "id": "5",
+        "name": "What obstacles do I need to be aware of in my career?",
+        "layout": "5 / 6 / span 2 / span 2"
+      },
+      {
+        "id": "6",
+        "name": "What is the potential future if I continue on this career path?",
+        "layout": "7 / 4 / span 2 / span 2"
+      },
+      {
+        "id": "7",
+        "name": "What steps can I take to improve my career satisfaction?",
+        "layout": "7 / 6 / span 2 / span 2"
+      }
+    ]
+  },
+  {
+    "id": "005",
+    "slug": "relationship-insight",
+    "name": "Relationship Insight",
+    "description": "For insights into relationship dynamics, whether romantic, familial, or platonic.",
+    "category": "relationship",
+    "layout": ["2, 2, 2, 1"],
+    "number": 7,
+    "positions": [
+      {
+        "id": "1",
+        "name": "How do I perceive the current state of our relationship?",
+        "layout": "1 / 4 / span 2 / span 2"
+      },
+      {
+        "id": "2",
+        "name": "What does the other person feel about our relationship?",
+        "layout": "1 / 6 / span 2 / span 2"
+      },
+      {
+        "id": "3",
+        "name": "What strengths do I bring to this relationship?",
+        "layout": "3 / 4 / span 2 / span 2"
+      },
+      {
+        "id": "4",
+        "name": "What strengths does the other person bring to this relationship?",
+        "layout": "3 / 6 / span 2 / span 2"
+      },
+      {
+        "id": "5",
+        "name": "What challenges am I facing in this relationship?",
+        "layout": "5 / 4 / span 2 / span 2"
+      },
+      {
+        "id": "6",
+        "name": "What challenges does the other person face in this relationship?",
+        "layout": "5 / 6 / span 2 / span 2"
+      },
+      {
+        "id": "7",
+        "name": "What is the potential future of this relationship?",
+        "layout": "7 / 5 / span 2 / span 2"
+      }
+    ]
+  },
+  {
+    "id": "006",
+    "slug": "self-discovery",
+    "name": "Self-Discovery",
+    "description": "For personal introspection, especially at crossroads or personal growth stages.",
+    "category": "personality",
+    "layout": ["1, 2, 2, 1"],
+    "number": 6,
+    "positions": [
+      {
+        "id": "1",
+        "name": "What do I need to understand about myself right now?",
+        "layout": "1 / 5 / span 2 / span 2"
+      },
+      {
+        "id": "2",
+        "name": "What strengths do I currently possess?",
+        "layout": "3 / 4 / span 2 / span 2"
+      },
+      {
+        "id": "3",
+        "name": "What personal qualities do I need to develop at this time?",
+        "layout": "3 / 6 / span 2 / span 2"
+      },
+      {
+        "id": "4",
+        "name": "What is blocking my personal growth?",
+        "layout": "5 / 4 / span 2 / span 2"
+      },
+      {
+        "id": "5",
+        "name": "How can I overcome this block?",
+        "layout": "5 / 6 / span 2 / span 2"
+      },
+      {
+        "id": "6",
+        "name": "What does my inner self want me to know?",
+        "layout": "7 / 5 / span 2 / span 2"
+      }
+    ]
+  },
+  {
+    "id": "007",
+    "slug": "relationship-problem",
+    "name": "Relationship Problem",
+    "description": "Sheds light on relationship problems. Helps understand cause, viewpoints, and solutions.",
+    "category": "relationship",
+    "layout": ["2, 2, 2, 1, 1"],
+    "number": 8,
+    "positions": [
+      {
+        "id": "1",
+        "name": "How does the main problem appear?",
+        "layout": "1 / 4 / span 2 / span 2"
+      },
+      {
+        "id": "2",
+        "name": "What is the source of the problem?",
+        "layout": "1 / 6 / span 2 / span 2"
+      },
+      {
+        "id": "3",
+        "name": "How do I perceive the problem?",
+        "layout": "3 / 4 / span 2 / span 2"
+      },
+      {
+        "id": "4",
+        "name": "How does my partner perceive the problem?",
+        "layout": "3 / 6 / span 2 / span 2"
+      },
+      {
+        "id": "5",
+        "name": "What am I willing/plan to do to solve the problem?",
+        "layout": "5 / 4 / span 2 / span 2"
+      },
+      {
+        "id": "6",
+        "name": "What is my partner willing/plan to do to solve the problem?",
+        "layout": "5 / 6 / span 2 / span 2"
+      },
+      {
+        "id": "7",
+        "name": "What will happen if nothing is done to resolve the issue?",
+        "layout": "7 / 5 / span 2 / span 2"
+      },
+      {
+        "id": "8",
+        "name": "What can I do to influence the problem now?",
+        "layout": "9 / 5 / span 2 / span 2"
+      }
+    ]
+  }
+]
